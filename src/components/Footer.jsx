@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <footer className="footer">
       <p>
-        Created by: <span className="author-name">Anurag Bhonsle</span> |
+        Created by:
         <a
           href="https://x.com/Anuraaaag7"
           target="_blank"
